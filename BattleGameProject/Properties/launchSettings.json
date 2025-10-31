@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "backend": {
+    "BattleGameApi_v1": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7075",
+      "commandLineArgs": "--port 7246",
       "launchBrowser": false
     }
   }
